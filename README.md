@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Daniel Casas</h1>
-<h3 align="center">Un estudiante de DAW de España</h3>
+<h1 align="center">Hola, soy Daniel</h1>
+<h3 align="center">Un estudiante de 2º año Desarrollo de Aplicaciones Web en España</h3>
 
 - 🔍️ Ahora mismo estoy estudiando **PHP, JavaScript y CSS**
 
